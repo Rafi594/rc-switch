@@ -12,7 +12,7 @@ rc-switch is also listed in the arduino library manager.
 https://github.com/sui77/rc-switch/wiki
 
 ## Info
-### Send RC codes
+### Send RC code
 
 Use your Arduino or Raspberry Pi to operate remote radio controlled devices.
 This will most likely work with all popular low cost power outlet sockets. If
